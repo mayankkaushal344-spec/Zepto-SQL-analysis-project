@@ -1,12 +1,12 @@
-# 🛒 Zepto Sales & Inventory Analysis Using SQL
+#  Zepto Sales & Inventory Analysis Using SQL
 
-## 📌 Project Overview
+##  Project Overview
 
 This project analyzes Zepto's product inventory and pricing dataset using MySQL. The objective was to explore product categories, evaluate discount strategies, monitor inventory levels, identify out-of-stock products, and generate business insights that can support inventory and pricing decisions.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Analyze product distribution across categories
 - Identify top revenue-generating categories
@@ -18,7 +18,7 @@ This project analyzes Zepto's product inventory and pricing dataset using MySQL.
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 - MySQL
 - XAMPP
@@ -27,7 +27,7 @@ This project analyzes Zepto's product inventory and pricing dataset using MySQL.
 
 ---
 
-## 📂 Dataset Features
+##  Dataset Features
 
 - Category
 - Product Name
@@ -41,7 +41,7 @@ This project analyzes Zepto's product inventory and pricing dataset using MySQL.
 
 ---
 
-## 🔍 SQL Skills Demonstrated
+##  SQL Skills Demonstrated
 
 ### Data Exploration
 - Dataset inspection
@@ -77,7 +77,7 @@ This project analyzes Zepto's product inventory and pricing dataset using MySQL.
 
 ---
 
-## 📊 Key Business Questions Solved
+##  Key Business Questions Solved
 
 ### 1. Which categories generate the highest potential revenue?
 
@@ -113,7 +113,7 @@ Performed category-level pricing analysis.
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 
 - Revenue generation varies significantly across categories.
 - Several products follow aggressive discounting strategies.
@@ -123,19 +123,9 @@ Performed category-level pricing analysis.
 - Category-wise pricing patterns reveal different market positioning strategies.
 
 ---
-## 📷 Query Results
+##  Query Results
 
 Multiple screenshots of SQL query outputs and business insights are included in this repository.
-
----
-
-## 💼 Resume Highlights
-
-- Analyzed Zepto inventory and pricing data using MySQL.
-- Performed data cleaning, exploration, and business-focused SQL analysis.
-- Applied GROUP BY, aggregate functions, filtering, sorting, and revenue calculations.
-- Generated insights related to inventory management, pricing strategy, and category performance.
-- Answered real-world business questions through SQL-driven analysis.
 
 ---
 
